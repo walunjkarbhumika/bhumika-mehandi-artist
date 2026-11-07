@@ -3,7 +3,7 @@ export const site = {
   name: 'Bhumika Mehandi Artist',
   artistName: 'Bhumika',
   tagline: 'Where Art Meets Tradition.',
-  siteUrl: 'https://www.example.com', // ← replace with your live domain (used for SEO + sitemap)
+  siteUrl: 'https://walunjkarbhumika.github.io/bhumika-mehandi-artist', // ← replace with your live domain (used for SEO + sitemap)
 
   // WhatsApp number with country code, digits only. Example: '919876543210'
   // While empty, WhatsApp buttons open WhatsApp with the message ready to send to any contact.
